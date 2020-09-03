@@ -6,6 +6,6 @@ Project created in a [Udemy online course](https://www.udemy.com/certificate/UC-
  
 ‣ Technologies used: HTML5, CSS3 and jQuery.
 
-## Project Screenshot
+## Screenshot
 
 <img src="/resourses/img/Omnifood-Screenshot.jpg" width="400">
